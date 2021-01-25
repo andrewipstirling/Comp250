@@ -1,0 +1,7 @@
+Tower Defense Game consisting of Bee Types and Hornets.
+
+Game is run from the BeeColony.java file through a GUI
+
+Click start game, and add hornets to the board by pressing spawn hornet. 
+To protect the "BeeHive" add a Bee to the path by clicking your preferred bee type,
+and clicking the tile you wish to add it to.
